@@ -1,5 +1,5 @@
 # Behaviour-Planning-for-Autonomous-Vehicles
-The research consists of 3 Models we worked. Model-1, Model-2, Model-3. This repo consists of Model-2 which still need to beadded with Lane change planner. 
+The research consists of 3 Models we worked. Model-1, Model-2, Model-3. This repo consists of Model-2 which need to be updated with Lane change planner. 
 
 
 The cost libraries are for relative velocities, Gap error and  Clear distance. 
@@ -15,12 +15,12 @@ The cost libraries are for relative velocities, Gap error and  Clear distance.
 
 The costs are calculated as follows:
 <p float="center">
-<img src="images/formula.jpg" width="49%"/>
+<img src="images/formula.JPG" width="49%"/>
 </p>
 
 Th weights of the costs for experimentation are taken as follows:
 <p float="center">
-<img src="images/table.jpg" width="49%"/>
+<img src="images/table.JPG" width="49%"/>
 </p>
 
 Currently we are working adding different cost libraries and tunning to get better results. 
