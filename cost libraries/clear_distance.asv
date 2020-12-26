@@ -1,0 +1,15 @@
+% This is a cost library for Clear Distance
+% B is variale for clear_distance
+
+x=[-1000,-50,-30,-15,15,30,50,1000]; 
+y=[0,0.1,0.2,1,0.14,0.43,0.7,2]; 
+
+figure
+plot(x,y)
+title('clear distance');
+xlabel('clear distance(m)');
+ylabel('Cost');
+
+% B = plot(x,y);
+
+
